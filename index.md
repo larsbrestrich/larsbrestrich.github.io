@@ -1,8 +1,13 @@
 ---
 layout: default
-title: My Portfolio
 ---
 
-# Welcome to My Portfolio
+# Lars Brestrich
+## Data Science Portfolio
 
-This site is under construction.
+Welcome to my portfolio site.
+
+### Projects
+- Project 1
+- Project 2  
+- Project 3
