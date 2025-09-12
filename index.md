@@ -11,6 +11,7 @@
 ### Tech Stack  
 Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 
+<br>
 
 ## Education
 **M.Sc. Data-Intensive Analysis | University of St Andrews (_September 2025_)**<br>
@@ -22,6 +23,7 @@ Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 • Developed code projects in C++, Python and Java with a focus on multimedia applications and machine learning.<br>
 • Completed coursework in numerical mathematics, algorithms, data structures and theoretical foundations of machine learning.<br>
 
+<br>
 
 ## Work Experience
 
@@ -36,6 +38,7 @@ Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 • Built and maintained company website of tech start-up using WordPress.<br>
 • Created marketing materials and presented the business to potential investors.
 
+<br>
 
 ## Projects
 
