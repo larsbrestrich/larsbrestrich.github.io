@@ -2,10 +2,8 @@
 # Data Scientist
 
 ### Languages
-**Proficient:** Python, SQL, C++
-
-**Experience:** C#, Java, javascript
-
+**Proficient:** Python, SQL, C++<br>
+**Experience:** C#, Java, javascript<br>
 **Real Languages:** English, German
 
 ### Tech Stack  
