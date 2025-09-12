@@ -13,13 +13,13 @@
 Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 
 ## Education
-**M.Sc., Data-Intensive Analysis | University of St Andrews (_September 2025_)**
+**M.Sc. Data-Intensive Analysis | University of St Andrews (_September 2025_)**
 
 • Produced end-to-end statistical analysis projects consisting of data manipulation, statistical modelling, model assessment and report writing.<br>
 • Applied machine-learning models and statistical techniques for classification, regression and clustering, including neural networks, ensemble methods, GLMs, and GAMs.<br>
 • Took leadership in group projects and used Python, SQL and Tableau to analyse and present data.
 
-**B.Sc., Creative Computing | Goldsmiths University (_July 2020_)**
+**B.Sc. Creative Computing | Goldsmiths University (_July 2020_)**
 
 • Developed code projects in C++, Python and Java with a focus on multimedia applications and machine learning.<br>
 • Completed coursework in numerical mathematics, algorithms, data structures and theoretical foundations of machine learning.<br>
