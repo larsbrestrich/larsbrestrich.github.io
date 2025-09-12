@@ -21,7 +21,7 @@ Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 
 • Took leadership in group projects and used Python, SQL and Tableau to analyse and present data.
 
-**B.Sc., Creative Computing | Goldsmiths University, University of London (_July 2020_)**
+**B.Sc., Creative Computing | Goldsmiths University (_July 2020_)**
 
 • Developed code projects in C++, Python and Java with a focus on multimedia applications and machine learning.
 
