@@ -4,9 +4,9 @@
 .site-header img,
 .header img,
 .logo img {
-  width: 50px;  /* Adjust this value */
-  height: 50px; /* Adjust this value */
-  max-width: 50px;
+  width: 10px;  /* Adjust this value */
+  height: 10px; /* Adjust this value */
+  max-width: 10px;
 }
 
 /* For minimal theme specifically */
