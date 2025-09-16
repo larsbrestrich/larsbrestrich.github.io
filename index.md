@@ -12,31 +12,34 @@
 **M.Sc. Data-Intensive Analysis | University of St Andrews (_September 2025_)**<br>
 • Produced end-to-end statistical analysis projects consisting of data manipulation, statistical modelling, model assessment and report writing.<br>
 • Applied machine-learning models and statistical techniques for classification, regression and clustering, including neural networks, ensemble methods, GLMs, and GAMs.<br>
-• Took leadership in group projects and used Python, SQL and Tableau to analyse and present data.
+• Conducted dissertation research investigating missing data mechanisms in causal inference.<br>
+• Took leadership in group projects.
 
 **B.Sc. Creative Computing | Goldsmiths University (_July 2020_)**<br>
-• Developed code projects in C++, Python and Java with a focus on multimedia applications and machine learning.<br>
-• Completed coursework in numerical mathematics, algorithms, data structures and theoretical foundations of machine learning.<br>
+• Developed code projects in C++, Python and Java with a focus on multimedia applications, machine learning and graphics.<br>
+• Completed coursework in programming architecture, numerical mathematics, network programming and theroetical foundations of machine learning. Self-taught algorithms and data structures, as well as game engine development.
+
 
 <br>
 
 ## Work Experience
 
 **Mid-Level Game Programmer @ Bohemia Interactive (_Mar 2021 - Mar 2024_)**<br>
-• Implemented and debugged complex game systems in a networked real-time application in C++.<br>
-• Collaborated with an interdisciplinary team to manage timely delivery of features and communicate technical considerations.<br>
-• Worked to a high technical standard and participated in code reviews to ensure readable and maintainable code in a large codebase.<br>
-• Assessed and improved performance of core systems and implemented user analytics.
+• Implemented and debugged complex game systems in Vigor, a networked real-time game in C++. These increased user engagement, improved input responsiveness and reduced network latency.<br>
+• Took ownership of features to ensure their feasibility, quality and timely delivery in coordination with an interdisciplinary team of programmers, designers and stakeholders.<br>
+• Worked to a high technical standard and participated in code reviews to ensure readable and maintainable code in a large codebase.
+
 
 
 **Co-Founder @ X-Tron (_September 2018 - Jan 2021_)**<br>
-• Built and maintained company website of tech start-up using WordPress.<br>
-• Created marketing materials and presented the business to potential investors.
+• Built and maintained website for the first digital marketplace for export finance.<br>
+• Participated in strategic decision-making and presented the business to potential investors.
+
 
 <br>
 
-## Projects
-### [Data Visualisations of Nobel Laureate Data](https://larsbrestrich.github.io/DataVisualisation_NobelLaureates/)<br>
+## Selected Projects
+### [Visualisations of Nobel Laureate Data](https://larsbrestrich.github.io/DataVisualisation_NobelLaureates/)<br>
 
 ![Picture](/assets/img/VizProject.jpg)<br>
 
