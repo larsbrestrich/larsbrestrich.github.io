@@ -44,4 +44,13 @@ A group of D3js data visualisations (**javascript**) answering the question: “
 
 Trained and optimised ML models to predict temperature from a ERA5 dataset, which includes spatial and temporal weather data. Modelled KNN, neural network, MLPRegressor, Random Forest and Linear Regression. Group Project. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### [Exploratory Analysis of US Fortune 500 Companies](https://larsbrestrich.github.io/AnalysisReport_Fortune500/)<br>
+
+ Exploratory analysis of data gathered by Fortune Magazine on key company metrics. Our goal is to uncover relationships between these variables by fitting a linear model, and explore how these findings could be used to inform investment decisions in the future.
+
+### [Python Game (Fences)](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/larsbrestrich/PythonProject_Fences/main/ID5059%20Report.pdf)<br>
+
+Python implementation of a networked game called "Fences". Incorporates networking code for client-server architecture, hierarchical user interfaces and game logic.
+
+
+![Picture](/assets/img/eeg_band_discovery.jpeg)
