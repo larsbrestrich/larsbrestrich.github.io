@@ -4,7 +4,7 @@
 **Proficient Languages:** Python, SQL, C++<br>
 **Experience in:** C#, Java, javascript<br>
 
-**Tech Stack**   Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
+**Tech Stack**   Visual Studio, Jupyter Notebook, RStudio, Tableau, Git
 
 <br>
 

@@ -5,7 +5,9 @@
 
 /* Customize logo/header image size */
 .site-header img,
-.header img,
+.header img {
+  margin-bottom: 30px;
+}
 .logo img {
   width: 20px;  /* Adjust this value */
   height: 20px; /* Adjust this value */
