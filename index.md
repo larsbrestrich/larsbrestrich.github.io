@@ -41,6 +41,18 @@ Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 ## Projects
 ### [Data Visualisations of Nobel Laureate Data](https://larsbrestrich.github.io/DataVisualisation_NobelLaureates/)<br>
 
-A group of D3js data visualisations (**javascript**) answering the question: “Where should I be to win a Nobel Prize?”, aimed at globally curious and ambitious researchers and students. It combines the data of nobel laureate winners from the past 50 years with various country-specific metrics such as GDP, population and political freedom. Group project. 
+A group of D3js data visualisations (**javascript**) answering the question: “Where should I be to win a Nobel Prize?”, aimed at globally curious and ambitious researchers and students. It combines the data of nobel laureate winners from the past 50 years with various country-specific metrics such as GDP, population and political freedom. Group project.
+
+### [Machine Learning Temperature Prediction](https://github.com/larsbrestrich/MachineLearning_SpatialTemperaturePrediction/tree/main
+)<br>
+
+
+<iframe src="https://github.com/larsbrestrich/MachineLearning_SpatialTemperaturePrediction/blob/main/ID5059%20Report.pdf" 
+        width="100%" 
+        height="800px"
+        style="border: none;">
+</iframe>
+
+<p><a href="/ID5059%20Report.pdf" target="_blank">Open PDF in new tab</a> | <a href="/ID5059%20Report.pdf" download>Download PDF</a></p>
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
