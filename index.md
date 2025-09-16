@@ -1,6 +1,7 @@
 
 # Data Scientist
 
+## Technical Skills
 **Proficient in:**   Python, SQL, C++<br>
 **Experience in:**   C#, Java, javascript<br>
 
