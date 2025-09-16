@@ -1,10 +1,10 @@
 
 # Data Scientist
 
-Proficient in:   **Python, SQL, C++**<br>
-Experience in:   **C#, Java, javascript**<br>
+**Proficient in:**   Python, SQL, C++<br>
+**Experience in:**   C#, Java, javascript<br>
 
-Tech Stack:   **Visual Studio, Jupyter Notebook, RStudio, Tableau, Git**
+**Tech Stack:**   Visual Studio, Jupyter Notebook, RStudio, Tableau, Git
 
 <br>
 
