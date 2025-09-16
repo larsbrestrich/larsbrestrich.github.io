@@ -39,9 +39,7 @@ Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 <br>
 
 ## Projects
-
-### Data Visualisations of Nobel Laureate Data<br>
-[Nobel Laureates Link](https://larsbrestrich.github.io/DataVisualisation_NobelLaureates/)
+### [Data Visualisations of Nobel Laureate Data](https://larsbrestrich.github.io/DataVisualisation_NobelLaureates/)<br>
 
 A group of D3js data visualisations (**javascript**) answering the question: “Where should I be to win a Nobel Prize?”, aimed at globally curious and ambitious researchers and students. It combines the data of nobel laureate winners from the past 50 years with various country-specific metrics such as GDP, population and political freedom. Group project. 
 
