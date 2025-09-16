@@ -43,7 +43,7 @@ Visual Studio, Jupyter Notebook, RStudio, Tableau, Git, Teams
 
 A group of D3js data visualisations (**javascript**) answering the question: “Where should I be to win a Nobel Prize?”, aimed at globally curious and ambitious researchers and students. It combines the data of nobel laureate winners from the past 50 years with various country-specific metrics such as GDP, population and political freedom. Group project.
 
-### [MachineLearning Spatial Temperature Prediction](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/larsbrestrich/MachineLearning_SpatialTemperaturePrediction/blob/main/ID5059%20Report.pdf)<br>
+### [MachineLearning Spatial Temperature Prediction](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/larsbrestrich/MachineLearning_SpatialTemperaturePrediction/main/ID5059%20Report.pdf)<br>
 
 Trained and optimised ML models to predict temperature from a ERA5 dataset, which includes spatial and temporal weather data. Modelled KNN, neural network, MLPRegressor, Random Forest and Linear Regression. Group Project. 
 
