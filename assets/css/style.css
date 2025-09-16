@@ -7,13 +7,13 @@
 .site-header img,
 .header img,
 .logo img {
-  width: 20px;  /* Adjust this value */
-  height: 20px; /* Adjust this value */
-  max-width: 20px;
+  width: 15px;  /* Adjust this value */
+  height: 15px; /* Adjust this value */
+  max-width: 15px;
 }
 
 /* For minimal theme specifically */
 .wrapper img:first-child {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
 }
