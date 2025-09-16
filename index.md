@@ -47,11 +47,13 @@ A group of D3js data visualisations (**javascript**) answering the question: “
 )<br>
 
 
-<iframe src="https://github.com/larsbrestrich/MachineLearning_SpatialTemperaturePrediction/blob/main/ID5059%20Report.pdf" 
+### <iframe src="https://github.com/larsbrestrich/MachineLearning_SpatialTemperaturePrediction/blob/main/ID5059%20Report.pdf" 
         width="100%" 
         height="800px"
         style="border: none;">
-</iframe>
+</iframe><br>
+
+Trained and optimised ML models to predict temperature from a ERA5 dataset, which includes spatial and temporal weather data. Modelled KNN, neural network, MLPRegressor, Random Forest and Linear Regression. Group Project. 
 
 <p><a href="/ID5059%20Report.pdf" target="_blank">Open PDF in new tab</a> | <a href="/ID5059%20Report.pdf" download>Download PDF</a></p>
 
