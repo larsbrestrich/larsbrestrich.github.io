@@ -79,7 +79,7 @@ Exploratory **data analysis** of data gathered by Fortune Magazine on key compan
 
 
 
-### [Competitor Analysis Report)](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/larsbrestrich/Competitor-Analysis-Report/main/Practical3_240032297.pdf)<br>
+### [Competitor Analysis Report](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/larsbrestrich/Competitor-Analysis-Report/main/Practical3_240032297.pdf)<br>
 
 ![Picture](/assets/img/CompetitorAnalysisImg.jpg)<br>
 
