@@ -90,7 +90,7 @@ Exploratory **data analysis** of data gathered by Fortune Magazine on key compan
 
 <br>
 
-## Professional Projects
+## Professional Projects (Programming)
 
 ### [Vigor](https://vigorgame.com/)<br>
 
