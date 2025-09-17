@@ -84,3 +84,5 @@ Exploratory **data analysis** of data gathered by Fortune Magazine on key compan
 ![Picture](/assets/img/CompetitorAnalysisImg.jpg)<br>
 
 **Statistical report** comparing the effectiveness of hair products for male-pattern baldness from 4 different competitors. Investigates the comparative effect of products and the age of subjects using t-tests, Tukey's HSD, and linear modelling.
+
+[Github Link](https://github.com/larsbrestrich/Competitor-Analysis-Report)<br>
