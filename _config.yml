@@ -1,4 +1,7 @@
 title: Lars Brestrich  
 logo: /assets/img/headshot_larsB.jpg
 description: <br>Data scientist with MSc in Data-Intensive Analysis from the University of St Andrews and 8 years of programming experience. Formerly professional game programmer. <br><br> UK-educated, native speaker in German and English.
+social_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lars-brestrich/
 theme: jekyll-theme-minimal
