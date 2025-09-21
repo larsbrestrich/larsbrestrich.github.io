@@ -10,13 +10,13 @@
 <br>
 
 ## Education
-**M.Sc. Data-Intensive Analysis | University of St Andrews (_September 2025_) - Distinction (83%)**<br>
+**M.Sc. Data-Intensive Analysis | University of St Andrews (_September 2025_) - Grade: Distinction (83%)**<br>
 • Produced end-to-end statistical analysis projects consisting of data manipulation, statistical modelling, model assessment and report writing.<br>
 • Applied machine-learning models and statistical techniques for classification, regression and clustering, including neural networks, ensemble methods, GLMs, and GAMs.<br>
 • Conducted dissertation research investigating missing data mechanisms in causal inference.<br>
 • Took leadership in group projects.
 
-**B.Sc. Creative Computing | Goldsmiths University (_July 2020_) - First Class Honours (75%)**<br>
+**B.Sc. Creative Computing | Goldsmiths University (_July 2020_) - Grade: First Class Honours (75%)**<br>
 • Developed code projects in C++, Python and Java with a focus on multimedia applications, machine learning and graphics.<br>
 • Completed coursework in programming architecture, numerical mathematics, network programming and theroetical foundations of machine learning. Self-taught algorithms and data structures, as well as game engine development.
 
