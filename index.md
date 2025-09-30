@@ -2,8 +2,8 @@
 # Data Scientist
 
 ## Technical Skills
-**Proficient in:**   Python, SQL, C++<br>
-**Experience in:**   C#, Java, javascript<br>
+**Proficient in:**   Python, C#, C++<br>
+**Experience in:**   SQL, R, Java, javascript<br>
 
 **Tech Stack:**   Visual Studio, Jupyter Notebook, RStudio, Tableau, Git
 
