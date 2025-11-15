@@ -1,40 +1,41 @@
 
-# Data Scientist
+# Data Analyst
 
 ## Technical Skills
 **Proficient in:**   Python, C#, C++<br>
 **Experience in:**   SQL, R, Java, javascript<br>
 
-**Tech Stack:**   Visual Studio, Jupyter Notebook, RStudio, Tableau, Git
+**Tech Stack:**   Jupyter, Tableau, RStudio, Excel, Git
 
 <br>
 
 ## Education
 **M.Sc. Data-Intensive Analysis | University of St Andrews (_September 2025_) - Grade: Distinction (83%)**<br>
-• Produced end-to-end statistical analysis projects consisting of data manipulation, statistical modelling, model assessment and report writing.<br>
-• Applied machine-learning models and statistical techniques for classification, regression and clustering, including neural networks, ensemble methods, GLMs, and GAMs.<br>
-• Conducted dissertation research investigating missing data mechanisms in causal inference.<br>
-• Took leadership in group projects.
+• Produced 9 end-to-end statistical analysis projects that included data wrangling, modelling, model assessment and visualisation. Created projects in Python, R and SQL using Scikit-Learn and Pandas. Also created dashboards and reproducible analyses in Tableau and Jupyter.<br>
+• Applied statistical techniques and ML models to predictive modelling and causal inference tasks, including neural networks, random forests, logistic regression and linear models.<br>
+• Conducted dissertation research investigating missing data mechanisms in causal inference using a simulation study with 24,000 variable combinations.
 
 **B.Sc. Creative Computing | Goldsmiths University (_July 2020_) - Grade: First Class Honours (75%)**<br>
-• Developed code projects in C++, Python and Java with a focus on multimedia applications, machine learning and graphics.<br>
-• Completed coursework in programming architecture, numerical mathematics, network programming and theroetical foundations of machine learning. Self-taught algorithms and data structures, as well as game engine development.
+• Developed code projects in C++, Python and Java with a focus on machine learning and multimedia applications.<br>
+• Self-taught algorithms, data structures, mathematical concepts and game engine development.
 
 
 <br>
 
 ## Work Experience
 
-**Mid-Level Game Programmer @ Bohemia Interactive (_Mar 2021 - Mar 2024_)**<br>
-• Implemented and debugged complex game systems in Vigor, a networked real-time game in C++. These increased user engagement, improved input responsiveness and reduced network latency.<br>
-• Took ownership of features to ensure their feasibility, quality and timely delivery in coordination with an interdisciplinary team of programmers, designers and stakeholders.<br>
-• Worked to a high technical standard and participated in code reviews to ensure readable and maintainable code in a large codebase.
+**Programmer @ Bohemia Interactive (_Mar 2021 - Mar 2024_)**<br>
+• Developed and optimised complex algorithms for real-time networked game in C++, serving 20+ million users. Focused on improving user experience and reducing network latency.<br>
+• Collaborated with an interdisciplinary team of 20 programmers, designers and testers.<br>
+• Took ownership of core features such as hit tracing, grenade systems and analytics to ensure feasibility, quality and timely delivery.<br>
+• Followed a high technical standard and conducted code reviews to ensure readable and maintainable code in a 500K+ line codebase.
+
 
 
 
 **Co-Founder @ X-Tron (_September 2018 - Jan 2021_)**<br>
-• Built and maintained website for the first digital marketplace for export finance.<br>
-• Participated in strategic decision-making and presented the business to potential investors.
+• Built and maintained website for the first digital marketplace for export finance, which attracted 100+ corporates like Konecranes and banks like MUFG.<br>
+• Collaborated on marketing strategy and presented the business to potential investors.
 
 
 <br>
