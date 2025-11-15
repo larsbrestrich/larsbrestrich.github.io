@@ -87,3 +87,22 @@ Exploratory **data analysis** of data gathered by Fortune Magazine on key compan
 **Statistical report** comparing the effectiveness of hair products for male-pattern baldness from 4 different competitors. Investigates the comparative effect of products and the age of subjects using t-tests, Tukey's HSD, and linear modelling.
 
 [Github Link](https://github.com/larsbrestrich/Competitor-Analysis-Report)<br>
+<!-- 
+
+<br>
+
+## Professional Projects (Programming)
+
+### [Vigor](https://vigorgame.com/)<br>
+
+![Picture](/assets/img/VigorGame.jpg)<br>
+
+A popular first-person multiplayer game by [Bohemia Interactive](https://www.bohemia.net/) focused on looting scarce resources in competition with other players.<br>
+I implemented core gameplay systems including grenades and server-side hit registration. Moreover, I improved existing systems such as player movement, aiming, inventories and weapon switching. My work consisted of writing code, extensive debugging, evaluating and testing CPU and network performance, code reviews, source control and documenting code architecture. This project was written entirely in **C++**.
+
+### [Game Prototype (under NDA)](https://vigorgame.com/)<br>
+
+![Picture](/assets/img/Bohemia.png)<br>
+
+Implemented game systems in a prototype programmed in the Enfusion Engine by [Bohemia Interactive](https://www.bohemia.net/). Included extensive research into existing game systems, as well as modifying and adding novel features to those systems. Also focused on computational performance improvements (e.g. event systems, multithreading, caching). This project was written entirely in **C#/C++**
+ -->
