@@ -1,5 +1,5 @@
 
-# Data Analyst
+# Data Scientist
 
 ## Technical Skills
 **Proficient in:**   Python, C#, C++<br>
